@@ -14,11 +14,11 @@
 Se creo un proyecto en java, teniendo en cuenta los criterios para la evaluación del proyecto.
 En el código a final de cada pregunta se encontrará la respuesta correcta en caso de que se desconozca.
 
-![]()
+![](https://github.com/FrijolitoIk1000/SofkaChallenge/blob/main/imgs/img1.PNG)
 
 
 Al final de la ejecución del programa se encontrar la lista de la persistencia de los datos de los jugadores.
 
-![](https://github.com/FrijolitoIk1000/JavaSofkaChallenge/blob/main/imgs/img2.PNG)
+![](https://github.com/FrijolitoIk1000/SofkaChallenge/blob/main/imgs/img2.PNG)
 
 El funcionamiento es sencillo aparecerá un cuadro de texto donde se tendrá que colocar la respuesta correcta, en caso de colocar un carácter incorrecto o en mayúscula el jugador perderá automáticamente la partida.
